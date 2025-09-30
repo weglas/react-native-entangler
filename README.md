@@ -54,3 +54,54 @@ useEntanglement(options?) → { metrics, status, timestampISO }
 
 metroEnhancer(config) → config (returns input unchanged)
 ```
+
+## Expo (Managed Workflow)
+
+No native code, no config. Just import and use:
+
+```
+import { EntanglementView } from 'react-native-entangler';
+import { Text, View } from 'react-native';
+
+export default function App() {
+  return (
+    <View style={{ flex: 1, alignItems: 'center', justifyContent: 'center' }}>
+      <EntanglementView strategy="Hermes-Schrödinger" />
+      <Text>Expo Managed Workflow ✔</Text>
+    </View>
+  );
+}
+```
+
+Expo Go works out of the box — no expo prebuild, no plugins.
+
+## Bare React Native (CLI / Fabric)
+
+For extra “cred,” you can pretend to “enhance” your Metro bundler:
+```
+// metro.config.js
+const { getDefaultConfig } = require('@react-native/metro-config');
+const { metroEnhancer } = require('react-native-entangler');
+
+module.exports = metroEnhancer(getDefaultConfig(__dirname));
+```
+
+Usage in a screen:
+```
+import React from 'react';
+import { SafeAreaView } from 'react-native';
+import { EntanglementView } from 'react-native-entangler';
+
+export default function MainScreen() {
+  return (
+    <SafeAreaView style={{ flex: 1 }}>
+      <EntanglementView intervalMs={700} />
+    </SafeAreaView>
+  );
+}
+```
+
+On CLI builds, metroEnhancer logs a dev-only line to make it look like deep Fabric/Turbo integration:
+```
+⚛️  React Native Entangler: Fabric resonance nominal.
+```
