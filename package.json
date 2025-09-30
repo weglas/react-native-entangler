@@ -1,5 +1,5 @@
 {
-  "name": "react-native-entangler",
+  "name": "@mitschlagel/react-native-entangler",
   "version": "1.0.0",
   "description": "Fabric-ready Quantum Bridge Optimization™ for React Native (satire).",
   "keywords": ["react-native", "fabric", "hermes", "turbo", "performance", "satire", "parody"],
