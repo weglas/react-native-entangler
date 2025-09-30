@@ -1,0 +1,31 @@
+{
+  "name": "react-native-entangler",
+  "version": "1.0.0",
+  "description": "Fabric-ready Quantum Bridge Optimization™ for React Native (satire).",
+  "keywords": ["react-native", "fabric", "hermes", "turbo", "performance", "satire", "parody"],
+  "license": "MIT",
+  "author": "mitschlagel",
+  "homepage": "https://github.com/mitschlagel/react-native-entangler",
+  "repository": { "type": "git", "url": "git+https://github.com/mitschlagel/react-native-entangler.git" },
+  "bugs": { "url": "https://github.com/mitschlagel/react-native-entangler/issues" },
+  "type": "module",
+  "exports": {
+    ".": {
+      "react-native": "./src/index.js",
+      "default": "./src/index.js"
+    }
+  },
+  "main": "src/index.js",
+  "react-native": "src/index.js",
+  "peerDependencies": {
+    "react": ">=18",
+    "react-native": ">=0.73"
+  },
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "test": "node test/smoke.test.js"
+  },
+  "funding": [
+    { "type": "coffee", "url": "https://www.buymeacoffee.com/entangler" }
+  ]
+}
