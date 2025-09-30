@@ -7,8 +7,36 @@
 ![hermes: coherent](https://img.shields.io/badge/hermes-coherent-purple)
 ![license: MIT](https://img.shields.io/badge/license-MIT-informational)
 
-## Why
-Because every mobile team deserves a dashboard that looks extremely serious during demos.
+---
+
+## 📦 Repository Description
+
+**React Native Entangler**
+
+> Fabric-ready Quantum Bridge Optimization™ for React Native.
+
+React Native Entangler is an **npm library** that “stabilizes Fabric resonance and enhances Hermes coherence. It provides:
+
+* A hook (`useEntanglement`) that returns *mystical performance metrics*.
+* A `<EntanglementView />` component for dashboards and demos.
+* A `metroEnhancer` function that supercharges your Metro bundler.
+
+Works seamlessly in **Expo** and **bare CLI** projects. Perfect for conference talks, April Fools’ repos, or just confusing your teammates.
+
+### Key Features
+
+* ⚛️ **Fabric-Compatible** (on paper, anyway).
+* 🚀 **Hermes-Accelerated** (metrics invented at runtime).
+* 🔒 **Enterprise-Grade Compliance** (FIPS/SOX/GDPR aura mode available as props).
+* 🕹 **Imaginary FPS** counter for maximum credibility.
+* 📉 Absolutely **zero effect** on performance, bundle size, or runtime.
+
+### Ethics & Safety
+
+* No native code, no network calls, no file access.
+* Avoids name collisions (no typosquatting).
+
+---
 
 ## Install
 ```bash
