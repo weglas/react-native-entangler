@@ -14,7 +14,6 @@
 **React Native Entangler**
 
 > Fabric-ready Quantum Bridge Optimization™ for React Native.
-> ⚠️ *Parody package. Performs absolutely no real optimization.*
 
 React Native Entangler is an **npm library** that “stabilizes Fabric resonance and enhances Hermes coherence. It provides:
 
